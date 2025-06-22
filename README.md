@@ -1,7 +1,9 @@
-Tecnologias Utilizadas
-    • Linguagem de Programação (Java)
-    • Ambiente de Desenvolvimento (Eclipse)
-    • Paradigma de Programação (Orientação a Objetos)
-    • Controlador de Versão (Git)
-    • Repositório Remoto (Github)
-    • Banco de Dados (MySQL)
+## 🛠 Tecnologias Utilizadas
+
+- 💻 **Linguagem de Programação:** Java  
+- 🧰 **IDE:** Eclipse  
+- 🧭 **Paradigma:** Programação Orientada a Objetos  
+- 🔄 **Controle de Versão:** Git  
+- ☁️ **Repositório Remoto:** GitHub  
+- 🗄️ **Banco de Dados:** MySQL
+
